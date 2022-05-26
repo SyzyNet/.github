@@ -24,6 +24,11 @@ Contact information:
 ### Fruit
 Co-Owner and Financial Manager for SyzyNet, software exploitation as a hobby, resident femboy
 
+## Looking for a carrer?
+We are currently not hiring any new employee's, but once we get some more groundwork laid out and we are going in full force, make sure to check back with us and see if you meet the requirements to be employed with us!
+
+If you are looking to volunteer or contribute, reach out to us with our contact email!
+
 ## Contact Us
 
 All business inquiries should be sent to support@syzynet.co
