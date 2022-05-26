@@ -12,7 +12,7 @@ Our Goal is to make obtaining tools and knowledge much easier for the general po
 
 We started out as a simple group developing cheats for VRChat, and decided to move on to bigger and better things.
 
-## Founders
+## Founding Members
 
 ### Top
 Owner and Main Dev for SyzyNet, currently attending college and pursuing a BA in computer science
